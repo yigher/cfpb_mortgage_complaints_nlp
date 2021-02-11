@@ -1,0 +1,7 @@
+label,correct_prediction,total,accuracy
+Conventional home mortgage,8684,9593,0.9052434066506828
+Reverse mortgage,93,148,0.6283783783783784
+Home equity loan or line of credit (HELOC),457,815,0.5607361963190184
+VA mortgage,555,1307,0.4246365723029839
+FHA mortgage,1105,2933,0.3767473576542789
+Other type of mortgage,21,961,0.021852237252861603
