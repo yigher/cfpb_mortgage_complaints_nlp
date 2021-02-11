@@ -1,0 +1,10 @@
+label,correct_prediction,total,accuracy
+Trouble during payment process,6500,7645,0.8502289077828646
+Struggling to pay mortgage,2998,3809,0.7870832239432922
+Applying for a mortgage or refinancing an existing mortgage,1414,2165,0.6531177829099307
+Incorrect information on your report,168,311,0.5401929260450161
+Closing on a mortgage,753,1626,0.46309963099630996
+Problem with a credit reporting company's investigation into an existing problem,23,145,0.15862068965517243
+Improper use of your report,0,29,0.0
+Unable to get your credit report or credit score,0,11,0.0
+Credit monitoring or identity theft protection services,0,10,0.0
